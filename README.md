@@ -1,38 +1,253 @@
 <h1 align="center">Hi 👋, I'm Hasnain Zainulabdin</h1>
-<h3 align="center">A passionate Python Developer | AI/ML Engineer from Hyderabad, Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhusnain20&label=Profile%20views&color=0e75b6&style=flat" alt="syedhusnain20" /> </p>
+<h3 align="center">
+Python Developer • AI/ML Engineer • AI Integration • Backend Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedhusnain20" alt="syedhusnain20" /></a> </p>
-
-- 🔭 I’m currently working on [FeeTrack](https://github.com/SyedHusnain20/Fee_Track)
-
-- 🌱 I’m currently learning **Agentic-AI and Cloud Computing**
-
-- 🤝 I’m looking for help with [R-R-website](https://github.com/SyedHusnain20/R-R-website)
-
-- 👨‍💻 All of my projects are available at [https://hasnainzainulabdin.vercel.app/](https://hasnainzainulabdin.vercel.app/)
-
-- 💬 Ask me about **Python, AI, Chatbots**
-
-- 📫 How to reach me **hasnainzainulabdin@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BdvIhFNUIBtdPPl-M0Pq0yIY72uYWMly/view?usp=drive_link](https://drive.google.com/file/d/1BdvIhFNUIBtdPPl-M0Pq0yIY72uYWMly/view?usp=drive_link)
-
-- ⚡ Fun fact **I completed my Final Year Thesis report a night before submition date.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasnain zainulabdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnain zainulabdin" height="30" width="40" /></a>
-<a href="https://fb.com/hasnain zainulabdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnain zainulabdin" height="30" width="40" /></a>
-<a href="https://instagram.com/hasnain_zainulabdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasnain_zainulabdin" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/SyedHusnain20">
+    <img src="https://komarev.com/ghpvc/?username=syedhusnain20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/SyedHusnain20?tab=followers">
+    <img src="https://img.shields.io/github/followers/SyedHusnain20?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/SyedHusnain20">
+    <img src="https://img.shields.io/github/stars/SyedHusnain20?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhusnain20&show_icons=true&locale=en&layout=compact" alt="syedhusnain20" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedhusnain20&show_icons=true&locale=en" alt="syedhusnain20" /></p>
+I'm **Hasnain Zainulabdin**, a Python Developer and AI/ML Engineer from **Hyderabad, Pakistan**, focused on building practical software, AI-powered applications, automation systems, and intelligent backend solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedhusnain20&" alt="syedhusnain20" /></p>
+- 🔭 Currently working on **[FeeTrack](https://github.com/SyedHusnain20/Fee_Track)**
+- 🌱 Currently learning **Agentic AI & Cloud Computing**
+- 🤖 Interested in **AI Agents, RAG, LLMs, Chatbots & AI Integration**
+- ⚡ Strong focus on **Python & Backend Development**
+- 💬 Ask me about **Python, AI, FastAPI, Chatbots & Automation**
+- 🚀 Building and experimenting with real-world software projects
+- 🌐 Portfolio: **[hasnainzainulabdin.vercel.app](https://hasnainzainulabdin.vercel.app/)**
+- 📫 Email: **[hasnainzainulabdin@gmail.com](mailto:hasnainzainulabdin@gmail.com)**
+
+> ⚡ Fun fact: I completed my Final Year Thesis report the night before the submission deadline. 😅
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🕌 ShariahEase
+
+AI-powered Islamic finance and Shariah compliance assistant.
+
+**Highlights**
+- RAG-powered knowledge retrieval
+- Conversational AI
+- WhatsApp chatbot
+- Islamic finance guidance
+- Zakat calculator
+- Fatwa & document search
+- Multilingual support
+
+**Tech:** Python • FastAPI • FAISS • Llama 3 • Hugging Face
+
+<a href="https://github.com/SyedHusnain20/ShariahEase">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ⚖️ QanoonDaan
+
+AI-powered legal information assistant focused on making legal information easier to access.
+
+**Highlights**
+- AI-powered legal assistance
+- Conversational interface
+- Legal information retrieval
+- Pakistan-focused use case
+
+**Focus:** AI • NLP • LegalTech • RAG
+
+<a href="https://github.com/SyedHusnain20">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐔 Chicken Khata
+
+A desktop-based accounting and ledger management system designed for a chicken shop.
+
+**Features**
+- Supplier management
+- Customer khata
+- Daily ledger
+- Purchase tracking
+- Partial payments
+- Expense tracking
+- Invoice generation
+
+**Tech:** Electron • SQLite
+
+</td>
+
+<td width="50%">
+
+### 🎓 FeeTrack
+
+A fee management system designed to simplify student fee cycles, payments and records.
+
+**Focus**
+- Student management
+- Fee cycles
+- Payment tracking
+- Financial records
+- Reporting
+
+<a href="https://github.com/SyedHusnain20/Fee_Track">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SyedHusnain20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="Hasnain's GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHusnain20&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
+    alt="Hasnain's Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=SyedHusnain20&theme=tokyonight&hide_border=true"
+    alt="Hasnain's GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SyedHusnain20&theme=tokyo-night&hide_border=true&area=true"
+    alt="Hasnain's GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SyedHusnain20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"
+    alt="Hasnain's GitHub Trophies"
+  />
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,linux" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+# 🧠 What I Work With
+
+```text
+AI & LLMs
+├── RAG Systems
+├── AI Agents
+├── Conversational AI
+├── Chatbots
+├── LLM Integration
+└── AI Automation
+
+Backend
+├── Python
+├── FastAPI
+├── Django
+├── Flask
+├── REST APIs
+└── Database Design
+
+Data & ML
+├── Pandas
+├── NumPy
+├── Scikit-learn
+├── PyTorch
+├── TensorFlow
+└── OpenCV
+
+Development
+├── Git & GitHub
+├── Docker
+├── PostgreSQL
+├── MongoDB
+├── MySQL
+└── Linux
