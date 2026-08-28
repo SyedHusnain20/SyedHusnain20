@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhusnain20&label=Profile%20views&color=0e75b6&style=flat" alt="syedhusnain20" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedhusnain20" alt="syedhusnain20" /></a> </p>
+
 - 🔭 I’m currently working on [FeeTrack](https://github.com/SyedHusnain20/Fee_Track)
 
 - 🌱 I’m currently learning **Agentic-AI and Cloud Computing**
@@ -32,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhusnain20&show_icons=true&locale=en&layout=compact" alt="syedhusnain20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedhusnain20&show_icons=true&locale=en" alt="syedhusnain20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedhusnain20&" alt="syedhusnain20" /></p>
