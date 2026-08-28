@@ -216,6 +216,29 @@ A fee management system designed to simplify student fee cycles, payments and re
 </p>
 
 ---
+📌 Currently
+<table> <tr> <td>
+
+🔭 Building
+
+FeeTrack & AI-powered applications
+
+</td> <td>
+
+🌱 Learning
+
+Agentic AI & Cloud Computing
+
+</td> <td>
+
+🎯 Goal
+
+Build useful AI-powered products
+
+</td> </tr> </table>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/hasnain-zainulabdin/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/hasnain_zainulabdin/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:hasnainzainulabdin@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://hasnainzainulabdin.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="center"> <b>⭐ If you find my projects useful, consider giving them a star!</b> </p> <p align="center"> <i>Building with Python, AI & curiosity 🚀</i> </p> ```
 
 # 🧠 What I Work With
 
