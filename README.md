@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile.png" alt="Hasnain Zainulabdin, AI developer and software engineer from Hyderabad, Sindh" width="160" height="160"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Hasnain Zainulabdin</h1>
 
 <h3 align="center">
